@@ -1,6 +1,6 @@
 # Don't Touch the Power line
 This work is a research-in-progress for developing an LLM-based assistance system to support the maintenance in the distribution grid.
-We base our pipeline for the PoC is based on the related work, while we adapt the prompts from a RAG evaluation tutorial of [Roucher \[2024\]](https://huggingface.co/learn/cookbook/rag_evaluation).
+We base our pipeline for the PoC is based on the related work, while we adapt the prompts and automatic evaluation steps from a RAG evaluation tutorial of [Roucher \[2024\]](https://huggingface.co/learn/cookbook/rag_evaluation).
 We convert our documents to markdown and add some validations on the answers and structure it in a pipeline for proof-of-concepts of LLM-based assistance systems.
 We evaluate our developed pipeline in a use case within the maintenance of the electricity distribution system.
 
