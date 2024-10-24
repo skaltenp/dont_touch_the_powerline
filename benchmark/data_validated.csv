@@ -1,0 +1,14 @@
+source,context,question,answer,question_groundedness_score,question_groundedness_feedback,question_relevance_score,question_relevance_feedback,question_context_independence_score,question_context_independence_feedback,answer_groundedness_score,answer_groundedness_feedback,answer_relevance_score,answer_relevance_feedback
+"615 Serie 5.0 FP1 IEC, Installations-Handbuch.md","# Copyright
+
+
+Jedwede Wiedergabe oder Vervielfältigung dieser Unterlagen sowie von deren
+Bestandteilen ohne schriftliche Genehmigung von ABB Oy ist strengstens untersagt.
+Die Inhalte derselben dürfen nicht an Dritte weitergegeben noch für jedwede
+unerlaubte Zwecke genutzt werden.
+
+Die in diesem Dokument beschriebene Soft- oder Hardware ist an
+Lizenzvereinbarungen gebunden und darf ausschließlich im Einklang mit den
+entsprechenden Lizenzvereinbarungen benutzt, vervielfältigt oder weitergegeben
+werden.",Was ist die Regelung bezüglich der Weitergabe der in diesem Dokument beschriebenen Soft- oder Hardware?,Sie darf nur im Einklang mit den entsprechenden Lizenzvereinbarungen weitergegeben werden.,3,"Der Kontext gibt an, dass die in diesem Dokument beschriebene Soft- oder Hardware an Lizenzvereinbarungen gebunden ist und nur im Einklang mit diesen Lizenzvereinbarungen verwendet, vervielfältigt oder weitergegeben werden darf. Dies deutet darauf hin, dass eine Weitergabe mit Einschränkungen möglich ist, aber keine spezifischen Details zu den Regelungen angegeben sind.",4,"Diese Frage ist nützlich, um das Verständnis des Technikers für die Regelungen bezüglich der Weitergabe der Hardware und Software zu klären.",1,"Die Frage scheint im Kontext zu sein, da sie sich auf 'dieses Dokument' bezieht.",3,"Der Kontext gibt an, dass die beschriebene Soft- oder Hardware an Lizenzvereinbarungen gebunden ist und nur im Einklang mit diesen Lizenzvereinbarungen verwendet, vervielfältigt oder weitergegeben werden darf. Es gibt jedoch keine spezifischen Details darüber, was die Regelung in Bezug auf die Weitergabe ist.",3,"Die Beantwortung dieser Frage könnte für einen Techniker nützlich sein, der die Soft- oder Hardware im Verteilnetz installieren oder warten muss, da er die Regeln und Richtlinien für die Weitergabe kennen muss."
+"615 Serie 5.0 FP1 IEC, Installations-Handbuch.md",-----,Was ist die Hauptstadt von Kanada?,Ottawa,1,"Der Kontext enthält keine Informationen, die uns bei der Beantwortung der Frage helfen würden.",1,Diese Frage ist für einen Techniker in der Wartung und Instandhaltung des Verteilnetzes nicht relevant.,5,"Es gibt keinen Kontext, der die Frage unklar machen könnte, und es ist leicht zu verstehen, was gemeint ist.",1,"Der Kontext enthält keine Informationen, die bei der Beantwortung der Frage helfen.",1,"Es ist unwahrscheinlich, dass diese Frage für einen Techniker in der Wartung und Instandhaltung des Verteilnetzes relevant ist."
